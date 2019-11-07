@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Omkar Manjrekar",
+      "authorEmail": "manjrekarom@gmail.com",
+      "authorUrl": "manjrekarom.github.io"
+    }
+  }
+}
