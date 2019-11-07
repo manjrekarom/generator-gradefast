@@ -1,5 +1,5 @@
 # generator-gradefast [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Create a gradefast project which contains files essential for evaluation
+> Create a gradefast project which contains python programs essential for evaluation
 
 ## Installation
 
